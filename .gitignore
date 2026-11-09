@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Editor and notebook files
+.vscode/
+.ipynb_checkpoints/
+
+# Downloaded dataset and generated model
+/data/*.csv
+/data/**/*.csv
+/churn_model.joblib
