@@ -1,4 +1,5 @@
 # B2B SaaS Customer Churn Classification
+[Live Demo](https://b2b-saas-churn-production.up.railway.app/docs)
 
 [Machine Learning Zoomcamp midterm project](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/projects). This project compares a machine
 learning model with an existing churn risk score and serves account-level
